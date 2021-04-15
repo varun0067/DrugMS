@@ -1,16 +1,16 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: refillmsprojectdpl
+  name: drugserviceapiprojectdpl
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: RefillMSProject
+      app: DrugServiceAPIProject
   template:
     metadata:
       labels:
-        app: RefillMSProject
+        app: DrugServiceAPIProject
     spec:
       containers:
       - name: aksmailorderregg
@@ -23,10 +23,10 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: refillmsprojectservice
+  name: drugserviceapiprojectservice
 spec:
   type: LoadBalancer
   ports:
   - port: 80
   selector:
-    app: RefillMSProject
+    app: DrugServiceAPIProject
