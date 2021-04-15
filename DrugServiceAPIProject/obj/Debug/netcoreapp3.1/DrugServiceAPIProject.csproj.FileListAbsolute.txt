@@ -1,0 +1,185 @@
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.exe
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.deps.json
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.json
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.dev.json
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csprojAssemblyReference.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfoInputs.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfo.cs
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.Manifest.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.xml
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DrugServiceAPIProject.styles.css
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.genruntimeconfig.cache
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CopyComplete
+C:\Users\NIKHIL SHETTY\source\repos\COHORTID004\cloud\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.exe
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.deps.json
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.json
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.dev.json
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfo.cs
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.xml
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DrugServiceAPIProject.styles.css
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CopyComplete
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\hp\Desktop\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.exe
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.deps.json
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.json
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.xml
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DrugServiceAPIProject.styles.css
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (2)\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.exe
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.deps.json
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.json
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfo.cs
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.xml
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DrugServiceAPIProject.styles.css
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CopyComplete
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.genruntimeconfig.cache
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MicroServices\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.exe
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.yaml
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.deps.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.AssemblyInfo.cs
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\staticwebassets\DrugServiceAPIProject.StaticWebAssets.xml
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\DrugServiceAPIProject.styles.css
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.csproj.CopyComplete
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.pdb
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\DrugMS\DrugServiceAPIProject\obj\Debug\netcoreapp3.1\DrugServiceAPIProject.genruntimeconfig.cache
